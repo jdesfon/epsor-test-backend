@@ -1,0 +1,24 @@
+# Folders
+__mocks__
+.git/
+.idea/
+.vscode/
+build/
+coverage/
+deployment/
+node_modules/
+test/
+
+# Files
+.env
+.env.example
+.eslintrc.js
+.gitignore
+.nvmrc
+.prettierrc.json
+Dockerfile
+Jenkinsfile
+jest.config.js
+jsconfig.json
+nodemon.json
+README.md
